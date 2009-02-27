@@ -1,9 +1,10 @@
 h1. Textmate Bundle for Taskpaper
 
 This is an upgrade of the "tasks-tmbundle":http://henrik.nyh.se/2007/08/tasks-bundle.
-The goal is to keep the same functionality that the original bundle had but make it compatible with Taskpaper.
 
-This bundle marks items as done using the standard TextMate format (adding @done to the end of the line).
+The goal is to keep the same functionality that the original bundle had but create files that are actually compatible with Taskpaper.
+
+This bundle marks items as done using the standard Taskpaper format (adding @done to the end of the line).
 
 h3. Bundle Features:
 
@@ -27,8 +28,8 @@ git clone git://github.com/bmabey/taskpaper-tmbundle.git Taskpaper.tmbundle
 
 h2. Credits
 
-* **Jess Martin** - Original creator of the Tasks bundle (http://henrik.nyh.se/2007/08/tasks-bundle)
-* **Jess Martin** - Upgraded to work with Taskpaper 2.
+* **Henrik Nyh** - Original creator of the Tasks bundle (http://henrik.nyh.se/2007/08/tasks-bundle)
+* **Jess Martin** - Upgraded to be compatible with Taskpaper 2
 
 
 
