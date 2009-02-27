@@ -1,0 +1,34 @@
+h1. Textmate Bundle for Taskpaper
+
+This is an upgrade of the "tasks-tmbundle":http://henrik.nyh.se/2007/08/tasks-bundle.
+The goal is to keep the same functionality that the original bundle had but make it compatible with Taskpaper.
+
+This bundle marks items as done using the standard TextMate format (adding @done to the end of the line).
+
+h3. Bundle Features:
+
+* Color highlighting for headers, tags, pending and done tasks.
+* Toggle tasks as done or not-done with Command-D
+* Add new tasks by pressing Enter
+
+h3. TODO:
+
+* Insert the cursor back in place in the line when Toggle Completed is executed.
+
+h2. Installation
+
+<pre>
+mkdir -p ~/Library/Application\ Support/TextMate/Bundles/
+cd ~/Library/Application\ Support/TextMate/Bundles
+git clone git://github.com/bmabey/taskpaper-tmbundle.git Taskpaper.tmbundle
+</pre>
+
+* In TextMate: From your drop down menu, select Bundles -> Bundle Editor -> Reload Bundles.
+
+h2. Credits
+
+* **Jess Martin** - Original creator of the Tasks bundle (http://henrik.nyh.se/2007/08/tasks-bundle)
+* **Jess Martin** - Upgraded to work with Taskpaper 2.
+
+
+
