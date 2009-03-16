@@ -30,7 +30,7 @@
 					</dict>
 				</dict>
 				<key>match</key>
-				<string>^(\s*)(-).*(\({1}@done.*\){1}|[^\(]@done.*).*$\n</string>
+				<string>^(\s*)(-).*(\({1}@done.*\){1}|[^\(]@done.*).*$</string>
 				<key>name</key>
 				<string>meta.task.completed.tasks</string>
 			</dict>
