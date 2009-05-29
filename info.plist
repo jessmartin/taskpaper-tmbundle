@@ -8,8 +8,6 @@
   <string>wrffznegva@tznvy.pbz</string>
   <key>contactName</key>
   <string>Jess Martin</string>
-  <key>description</key>
-  <string><a href="http://github.com/jessmartin/taskpaper-tmbundle/tree/master">Taskpaper Bundle</a> is a bundle for editing <a href="http://www.hogbaysoftware.com/products/taskpaper">Taskpaper</a> todo lists.</string>
 	<key>ordering</key>
 	<array>
 		<string>DD46B6D4-3616-4797-87D4-F089F68B28A7</string>
