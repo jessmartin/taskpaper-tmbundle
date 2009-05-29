@@ -9,11 +9,12 @@
 		<string>todo</string>
 		<string>tasks</string>
 		<string>todolist</string>
+		<string>taskpaper</string>
 	</array>
 	<key>keyEquivalent</key>
 	<string>^~T</string>
 	<key>name</key>
-	<string>Tasks</string>
+	<string>Taskpaper</string>
 	<key>patterns</key>
 	<array>
 		<dict>
