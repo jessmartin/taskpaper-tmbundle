@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Style: Optional tag</string>
+	<key>scope</key>
+	<string>meta.task.optional-tag</string>
+	<key>settings</key>
+	<dict>
+		<key>fontStyle</key>
+		<string>italic</string>
+		<key>foreground</key>
+		<string>#ffea00</string>
+	</dict>
+	<key>uuid</key>
+	<string>5F1D91A0-C5A7-428A-AF8A-9527B24446CE</string>
+</dict>
+</plist>
